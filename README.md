@@ -27,7 +27,7 @@ Two different types of source:
 
 1. Relational and CSV. The Kaggle Spotify Tracks dataset
    ([yamaerenay/spotify-dataset-19212020-160k-tracks](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)) 
-   You need to download `tracks.csv` and `artists.csv` and put them in `data/`. 
+   You need to download `tracks.csv` and `artists.csv` and put them in `data/`. (too big to upload to github)
 
 2. Scraped web page. Billboard year-end Hot 100 charts for 1990 to 2020,
    scraped from Wikipedia. The scraper writes to `data/billboard_year_end.csv`. (it's already in the folder)
