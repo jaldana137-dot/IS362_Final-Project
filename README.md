@@ -1,4 +1,4 @@
-#---- Did streaming change what a hit sounds like?
+Did streaming change what a hit sounds like?
 
 Final project for Data Acquisition and Management. The question I'm trying to
 answer: comparing popular tracks from the album-and-radio era (1990 to 2009)
@@ -7,7 +7,7 @@ shorter, louder, less acoustic, more danceable, and more often explicit, or
 are those claims industry folklore that the data doesn't support?
 
 
-##---- What's in here
+What's in here
 
 
 streaming_era_project/
@@ -21,7 +21,7 @@ streaming_era_project/
  data/                      put the input CSVs here (see below)
  figures/                   generated plots (auto-created when you run things)
 
-##----- Data sources
+Data sources
 
 Two different types of source:
 
