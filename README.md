@@ -14,13 +14,21 @@ streaming_era_project/
  README.md  =                 this file 
  
  requirements.txt           python deps
+ 
  schema.sql                 sqlite schema (normalized, 7 tables)
+ 
  01_load_spotify.py         loads tracks.csv + artists.csv into music.db
+ 
  02_scrape_billboard.py     scrapes wikipedia year-end billboard hot 100
+ 
  03_match_billboard.py      fuzzy-matches billboard rows to spotify track_ids
+ 
  analysis.ipynb             the actual analysis with all the plots and stats
+ 
  data/                      put the input CSVs here (see below)
+ 
  figures/                   generated plots (auto-created when you run things)
+ 
 
 Data sources
 
