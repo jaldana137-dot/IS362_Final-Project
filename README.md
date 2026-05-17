@@ -11,7 +11,8 @@ What's in here
 
 
 streaming_era_project/
- README.md  =                this file
+ README.md  =                 this file 
+ 
  requirements.txt           python deps
  schema.sql                 sqlite schema (normalized, 7 tables)
  01_load_spotify.py         loads tracks.csv + artists.csv into music.db
